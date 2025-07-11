@@ -1,0 +1,26 @@
+li{
+    display: inline;
+}
+
+body{
+    background-color: #423f3f;
+}
+p{
+    color: orange;
+}
+h1{
+    color: rgb(196, 131, 10);
+}
+.img1{
+    width: 40%;
+
+}
+.img2{
+    width: 40%;
+    
+}
+.img3{
+    width: 40%;
+    
+}
+
