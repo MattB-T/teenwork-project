@@ -12,18 +12,24 @@ h1{
     color: rgb(196, 131, 10);
 }
 .img1{
-    width: 30%;
-
+    width: 20%;
+ position: fixed;
+    top: 200px
 }
 .img2{
-    width: 30%;
-    
+    width: 20%;
+     position: fixed;
+    top: 470px
 }
 .img3{
-    width: 30%;
-    
+    width: 20%;
+    position: fixed;
+    top: 0px
 }
-
+.pop {size: 80%}
 .pics {   
    display: flex; justify-content: flex-end;
+}
+img {width: 30%;
+ display: flex; justify-content: center;
 }
